@@ -51,12 +51,12 @@ public class Design extends Fragment {
 
     private ArrayList<KShow> getContent() {
         ArrayList<KShow> arr=new ArrayList<>();
-        KShow kShow=new KShow("Amit.A",8608198652L);
+        KShow kShow=new KShow("Amith.A",8608198652L);
         arr.add(kShow);
         kShow=new KShow("Mahasri.J",9585085999L);
         arr.add(kShow);
 
-        kShow=new KShow("Niktaa.R.R",9790852001L);
+        kShow=new KShow("Nikitaa.R.R",9790852001L);
         arr.add(kShow);
         return arr;
     }
