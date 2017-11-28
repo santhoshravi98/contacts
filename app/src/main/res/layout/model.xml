@@ -6,7 +6,7 @@
 
     card_view:cardCornerRadius="25dp"
     card_view:cardElevation="7dp"
-    card_view:cardBackgroundColor="#87ceeb"
+    card_view:cardBackgroundColor="#ffffff"
     android:layout_height="wrap_content">
     <RelativeLayout
         android:layout_width="match_parent"
@@ -41,7 +41,7 @@
             android:padding="10dp"
             android:text="1212"
             android:textSize="16dp"
-            android:textColor="#FFFFFF"
+            android:textColor="#000000"
             android:textStyle="bold|italic" />
 
         <ImageButton
